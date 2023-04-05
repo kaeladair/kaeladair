@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on:
+I'm currently working on:
 
 * Analyzing California's new 2021 congressional maps using Python and MCMC ReCom.  
 * Learning full-stack web development with JavaScript and NodeJs.
