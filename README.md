@@ -3,4 +3,4 @@
 I'm currently working on:
 
 * Analyzing California's new 2021 congressional maps using Python and MCMC ReCom.  
-* Learning full-stack web development with JavaScript and NodeJs.
+* Learning full-stack web development with React and NodeJS.
