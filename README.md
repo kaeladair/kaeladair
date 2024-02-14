@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="height:28px" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/kaeladair">
-    <img src="https://img.shields.io/twitter/follow/kaeladair?label=Follow&style=social" style="height:28px" alt="Twitter Follow Badge"/>
+    <img src="https://img.shields.io/twitter/follow/kaeladair?label=Follow&style=social" style="height:30px" alt="Twitter Follow Badge"/>
   </a>
 </p>
 
