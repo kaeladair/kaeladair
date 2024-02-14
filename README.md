@@ -1,6 +1,6 @@
 ### 🌟 Welcome to Kael Adair's GitHub!
 
----
+--
 
 
 
@@ -14,7 +14,7 @@
 
 Hi  I'm Kael!
 
----
+--
 
 🎓 **Education:**
 
@@ -27,14 +27,14 @@ Hi  I'm Kael!
     - Calculus II
     - Applied Linear Algebra
     - Discrete Mathematics
----
+--
 
 💡 **Skills & Interests:**
 
 - **Languages & Tools:** Python, Java, HTML/CSS, JavaScript (currently learning), Git, SOLIDWORKS, Rest APIs (currently learning), Excel.
 - Deeply interested in all things for efficiency and AI. Always eager to learn and expand my skill set.
 
----
+--
 
 🔗 **Connect:**
 
