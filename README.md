@@ -1,16 +1,13 @@
-### 🌟 Welcome to Kael Adair's GitHub!
-
-----
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
-🙋‍♂️ **About Me:**
+**About Me:**
 
-Hi  I'm Kael!
+Hey, I'm Kael!
 ---
 
-🎓 **Education:**
+**Education:**
 
 - Pursuing a B.S. in Computer Science at Loyola Marymount University, Los Angeles.
 - Relevant coursework:
@@ -23,10 +20,8 @@ Hi  I'm Kael!
     - Discrete Mathematics
 ---
 
-💡 **Skills & Interests:**
+**Skills & Interests:**
 
-- **Languages & Tools:** Python, Java, HTML/CSS, JavaScript (currently learning), Git, SOLIDWORKS, Rest APIs (currently learning), Excel.
-- Deeply interested in all things for efficiency and AI. Always eager to learn and expand my skill set.
 ---
 
 🔗 **Connect:**
