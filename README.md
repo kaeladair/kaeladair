@@ -31,11 +31,11 @@
 
 ### 💻 Skills & Interests:
 
-- Programming Languages: Python, Java, JavaScript
+- Programming Languages: Python, Java, JavaScript, C++
 - Web Development: HTML, CSS, React, Node.js
 - Database Management: SQL, MongoDB
-- Tools & Technologies: Git, Docker, AWS
-- Interests: Machine Learning, Artificial Intelligence, Cybersecurity
+- Tools & Technologies: Git, Docker, AWS, Supabase, Arduino
+- Interests: Embedded Systems, Applied Deep Learning, Full-stack Development
 
 ---
 
