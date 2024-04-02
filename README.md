@@ -39,6 +39,9 @@
 
 ---
 
+### Hackathons
+![My Wall](https://idemoed.vercel.app/api/wall?username=kaeladair)
+
 ### 📫 How to reach me:
 
 - Email: [kael.adair@example.com](mailto:kaeljadair@gmail.com)
